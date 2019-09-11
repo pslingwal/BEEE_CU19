@@ -30,16 +30,15 @@ POINTS TO NOTE
    if you connects yor wire to the different pin as mentioned in the program then your LED will not glow.
 3. Before uploding your program to the board you must select the Ardiuno board and appropriate port from the tool section in the softwore
    otherwise your program will not be uploded to the board and a message of uploding error will appear.
-   
-   LEARNING OUTCOMES 
+4. Make sure you make a common ground of all four LED as their only one pin of ground in digital section.
+5. The top and the bottom rows in the breadboard are connected horizantally and they are connected upto five secions and the middel rows are
+   connected vertically so make your connections accordingly. 
+6. The program must be witten in case sensitive way as C language is used and it is case sensitive.
+
+ LEARNING OUTCOMES 
 
 1. Better understanding of the working of Arduino Uno and Breadboard.
 2. Better Understanding of making circuits on a Breadboard.
 3. Better understanding in using for loop.
 4. Working of LEDs connected in series.
 5. Familiarity with new Arduino IDE.
-
-4. Make sure you make a common ground of all four LED as their only one pin of ground in digital section.
-5. The top and the bottom rows in the breadboard are connected horizantally and they are connected upto five secions and the middel rows are
-   connected vertically so make your connections accordingly. 
-6. The program must be witten in case sensitive way as C language is used and it is case sensitive.
